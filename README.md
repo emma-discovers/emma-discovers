@@ -27,9 +27,8 @@
 
 ## 📫 Как со мной связаться
 
-- **Email:** ваш@email.com
-- **Telegram:** @ваш_ник
-- **LinkedIn:** [ссылка]
+- **Email:** emma.msrpn@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/emma-mesropian/]
 
 ---
 
