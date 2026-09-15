@@ -1,35 +1,27 @@
-# Привет, я Эмма 👋
+# Hi, I'm Emma 👋
 
 **Product Manager | HRTech & Talent Development Platforms (B2C/B2E) | AI-powered L&D**
 
-Я продакт-менеджер, который любит находить возможности там, где другие видят хаос. Работаю на стыке HRTech, EdTech и AI, создавая продукты, которые помогают людям учиться и расти.
+I'm a Product Manager who loves finding opportunities where others see chaos. I work at the intersection of HRTech, EdTech, and AI, building products that help people learn and grow.
 
-## 🔍 Что я делаю
+## 🔍 What I do
 
-- **Product Discovery** — исследую пользователей, формулирую гипотезы, валидирую идеи.
-- **AI в L&D** — изучаю, как AI меняет обучение и развитие талантов.
-- **HRTech продукты** — работаю с B2C и B2E платформами.
-- **Продуктовое мышление** — от проблемы до метрик, от гипотезы до результата.
+- **Product Discovery** — I research users, formulate hypotheses, and validate ideas.
+- **AI in L&D** — I explore how AI is changing learning and talent development.
+- **HRTech products** — I work with B2C and B2E platforms.
+- **Product thinking** — from problem to metrics, from hypothesis to result.
 
-## 🛠 Мой стек и инструменты
+## 🛠 My stack and tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+Python · SQL · Git · Notion · Figma
 
-## 📂 Что здесь можно найти
+## 📂 What you can find here
 
-- **Кейсы** — примеры продуктовых решений: проблема → гипотеза → решение → метрики.
-- **Заметки** — наблюдения по HRTech, AI и продуктовой аналитике.
-- **Инструменты** — шаблоны и фреймворки, которые использую в работе.
+- **Case studies** — examples of product decisions: problem → hypothesis → solution → metrics.
+- **Notes** — observations on HRTech, AI, and product analytics.
+- **Tools** — templates and frameworks I use in my work.
 
-## 📫 Как со мной связаться
+## 📫 How to reach me
 
 - **Email:** emma.msrpn@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/emma-mesropian/]
-
----
-
-*"Discovery — это не этап, это привычка."*
+- **LinkedIn:** https://www.linkedin.com/in/emma-mesropian/
