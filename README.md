@@ -28,5 +28,5 @@ Product Manager with 6+ years of experience across B2C and B2E segments. I've bu
 
 ## 📫 Connect with me
 
-- **Email:** emma.msrpn@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/emma-mesropian/
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emma.msrpn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emma-mesropian/)
