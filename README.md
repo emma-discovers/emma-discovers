@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Product+Manager+in+HRTech;AI-powered+L%26D;6%2B+years+in+B2C+%26+B2E;Product+Discovery+%7C+AI+in+Learning&font=Fira+Code&center=true&width=600&height=50&color=36BCF7)](https://git.io/typing-svg)
 
-Product Manager with 6+ years of experience in B2C and B2E segments. I turn learning and talent development challenges into products people actually use. I've launched products from scratch, scaled platforms to 50,000+ MAU, and doubled NPS for a skills development service serving 14,000+ IT professionals. I work at the intersection of HRTech, L&D, and AI.
+Product Manager with 6+ years of experience across B2C and B2E segments. I turn learning and talent development challenges into products that people actually use. I've built products from the ground up, scaled platforms to over 50,000 MAU, and doubled NPS for a skills development service used by more than 14,000 IT professionals. My work sits at the intersection of HRTech, L&D, and AI. Currently, I'm focused on AI-powered learning, rapid prototyping, and vibe-coding to validate product ideas faster.
 
 ## 🔍 What I do
 
