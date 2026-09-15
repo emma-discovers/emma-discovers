@@ -1,6 +1,6 @@
 # Hi, I'm Emma 👋
 
-https://readme-typing-svg.demolab.com/?lines=6%2B+years+in+B2C+%26+B2E;Product+Discovery;AI+in+Learning;Building+products+people+use&font=Fira+Code&center=true&width=600&height=50&color=36BCF7
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=6%2B+years+in+B2C+%26+B2E;Product+Discovery;AI+in+Learning;Building+products+people+use&font=Fira+Code&center=true&width=600&height=50&color=36BCF7)](https://git.io/typing-svg)
 
 Product Manager with 6+ years of experience across B2C and B2E segments. I turn learning and talent development challenges into products that people actually use. I've built products from the ground up, scaled platforms to over 50,000 MAU, and doubled NPS for a skills development service used by more than 14,000 IT professionals. My work sits at the intersection of HRTech, L&D, and AI. Currently, I'm focused on AI-powered learning and rapid prototyping to validate product ideas faster.
 
