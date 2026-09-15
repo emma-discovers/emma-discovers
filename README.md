@@ -1,8 +1,8 @@
 # Hi, I'm Emma 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Product+Manager+%7C+HRTech+%26+AI-powered+L%26D;6%2B+years+in+B2C+%26+B2E;Product+Discovery+%7C+AI+in+Learning;Turning+learning+challenges+into+products+people+use&font=Fira+Code&center=true&width=700&height=50&color=36BCF7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Product+Manager+%7C+HRTech+%26+AI-powered+L%26D;6%2B+years+in+B2C+%26+B2E;Product+Discovery+%7C+0+to+1+launches+and+scaling;Currently+exploring+AI+for+learning&font=Fira+Code&center=true&width=700&height=50&color=36BCF7)](https://git.io/typing-svg)
 
-Product Manager with 6+ years of experience across B2C and B2E segments. I turn learning and talent development challenges into products that people actually use. I've built products from the ground up, scaled platforms to over 50,000 MAU, and doubled NPS for a skills development service used by more than 14,000 IT professionals. My work sits at the intersection of HRTech, L&D, and AI. Currently, I'm focused on AI-powered learning and rapid prototyping to validate product ideas faster.
+Product Manager with 6+ years of experience across B2C and B2E segments. I've built products from the ground up, scaled platforms to over 50,000 MAU, and doubled NPS for a skills development service used by more than 14,000 IT professionals. My work sits at the intersection of HRTech, L&D, and AI. Currently, I'm focused on AI-powered learning and rapid prototyping to validate product ideas faster.
 
 ## 🔍 What I do
 
@@ -22,9 +22,9 @@ Product Manager with 6+ years of experience across B2C and B2E segments. I turn 
 
 ## 📂 Featured projects
 
-- [Product Case Studies](link) — problem → hypothesis → solution → metrics.
-- [AI in L&D Notes](link) — research and observations.
-- [PM Toolkit](link) — templates and frameworks.
+- [Product Case Studies](https://github.com/emma-discovers/product-case-studies) — problem → hypothesis → solution → metrics
+- [AI in L&D Notes](https://github.com/emma-discovers/ai-in-lnd-notes) — research and observations
+- [PM Toolkit](https://github.com/emma-discovers/pm-toolkit) — templates and frameworks
 
 ## 📫 Connect with me
 
