@@ -16,7 +16,7 @@ Product Manager with 6+ years of experience across B2C and B2E segments. I've bu
 
 - Launched a skills development service for 14,000+ IT & Digital specialists from scratch: 25% adoption in 4 months, NPS 32 → 65
 - Led AI pilots (voice simulation + trigger-based learning): reduced operational errors by 6%, increased on-time error correction by 12% over 6 months
-- Scaled educational products for entrepreneurs (MAU 30,000+), launched 3 products 0→1, increased conversion by 70% via an event-based chatbot, scaled registrations 2.5x
+- Scaled educational products for entrepreneurs (MAU 30,000+), launched 3 products 0→1, increased conversion by 70% via an event-based chatbot
 - Owned full P&L and product lifecycle for an EdTech startup: increased session duration by 37%, conversion by 18%, AOV by 23%, NPS 35 → 94
 - Built MVP prototypes independently using vibe-coding for rapid validation without engineering resources.
 
